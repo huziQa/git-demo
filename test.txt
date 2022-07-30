@@ -1,4 +1,4 @@
-helo git
+
 hello vue
 hello javascript 123
 
@@ -6,4 +6,6 @@ hello javascript 123
 需要提交第二次
 
 现在是第三次修改 所以需要提交第三次
-每次修改后都需要重新保存到暂存区 重新提交
+每次修改后都需要重新保存到暂存区 重新提交 
+
+这是在hot-fix分支下修改的东西
