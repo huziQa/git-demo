@@ -14,8 +14,8 @@ hello javascript 123
 现在在master新增加一行文字
 
 
+现在是在github上写了以一行代码
 
 
-这是在hot fix下新增了一行文子
 
 
