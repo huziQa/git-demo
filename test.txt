@@ -10,4 +10,12 @@ hello javascript 123
 
 这是在hot-fix分支下修改的东西
 
+
 现在在master新增加一行文字
+
+
+
+
+这是在hot fix下新增了一行文子
+
+
